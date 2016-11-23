@@ -3,4 +3,4 @@ Git is free software.
 hello
 world
 Creating a new branch is quick.
-switch to master
+switch to master create dev2
