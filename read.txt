@@ -4,3 +4,4 @@ hello
 world
 Creating a new branch is quick.
 switch to master create dev2
+fix bug 1234
